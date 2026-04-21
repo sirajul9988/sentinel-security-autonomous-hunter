@@ -1,0 +1,11 @@
+{
+  "name": "sentinel-security-hunter",
+  "version": "1.0.0",
+  "description": "Autonomous security sentinel for real-time threat detection",
+  "dependencies": {
+    "ethers": "^6.10.0",
+    "alchemy-sdk": "^3.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "chalk": "^4.1.2"
+  }
+}
